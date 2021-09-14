@@ -1,2 +1,2 @@
-# SummerOlympicsAnalysis
+# SummerOlympics analysis
 SummerOlympics DataSet Analysis
