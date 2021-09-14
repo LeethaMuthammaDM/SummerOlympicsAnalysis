@@ -8,9 +8,9 @@ Here, we have displayed the data using head() function , just to see first five 
 Here, we can get the name of all cities that has participated in olympics
 ## 2. Sports with highest gold medals
 Here, we will access only the rows with gold medal and find out which sports has highest gold medal and display a graph of top 5 sports
-### 3.Sports with highest Medals
+## 3.Sports with highest Medals
 Sports with highest number of medals is found and displayed (top 5 will be displayed)
-### 4. Players who won highest number of medals
+## 4. Players who won highest number of medals
 Players who have won most medals so far are accessed and then the top 5 names will be displayed in graph.
 ## 5. Players with highest number of gold medals
 Find players who have got gold medals and sort according to highest number of gold medals won by the player.Display graph of top 5
